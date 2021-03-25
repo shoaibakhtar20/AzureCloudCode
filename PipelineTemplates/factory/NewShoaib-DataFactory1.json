@@ -1,0 +1,9 @@
+{
+	"name": "NewShoaib-DataFactory1",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8c9a249e-6270-4f17-ae20-8f770d783372",
+		"tenantId": "45dd37cb-2747-4361-a7eb-5330b0d181af"
+	}
+}
